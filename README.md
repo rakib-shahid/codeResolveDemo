@@ -1,3 +1,3 @@
 # codeResolveDemo
 
-updated readme to test git pull
+A demo repository for the Code Resolve Git/GitHub workshop
